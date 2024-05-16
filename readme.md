@@ -15,4 +15,9 @@
 ## Survey and Papers 
 - [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488) ⭐️⭐️⭐
 
+
+## classic Papers
+- [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490)
+
+
 ## Experiments Visualization
