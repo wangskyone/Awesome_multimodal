@@ -12,8 +12,12 @@
 - Analyzing the State-of-the-art papers from top conferences, including but not limited to ICCV, CVPR, ICML, ICLR, and NIPS.
 - Replicating classical paper results with SOTA performance.
 
-## Survey and Papers 
+## Survey
 - [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488) ⭐️⭐️⭐
+
+
+## Multimodal Fusion
+- [Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning (ICLR24)](https://arxiv.org/abs/2206.06488), [code](https://github.com/joshuaxiao98/ITHP)
 
 
 ## classic Papers
