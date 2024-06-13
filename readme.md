@@ -23,5 +23,8 @@
 ## classic Papers
 - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490)
 
+- [Attention Bottlenecks for Multimodal Fusion (NIPS21)](https://arxiv.org/pdf/2107.00135v3), [code](https://github.com/google-research/scenic/tree/main/scenic/projects/mbt)
+
+- [Perceiver: General Perception with Iterative Attention (ICML21)](https://arxiv.org/pdf/2103.03206v2), [code](https://github.com/lucidrains/perceiver-pytorch)
 
 ## Experiments Visualization
